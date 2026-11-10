@@ -1,7 +1,9 @@
 # Heya
 
-This is my page of insanity, scripting and shit idk
+## Welcome to my page i guess
 
-idk how to add downloads yet
+My name is Nut, or whatever.
 
-chesburger
+I am a programmer at Tales Of The Graveyard
+
+I am also the creator of [Nutthon](nutterbutter2331.github.io/nutthonbot.github.io)
